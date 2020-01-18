@@ -12,9 +12,9 @@ The project is about  Dog and cat classifier with Convolution Neural Network(CNN
 
 1. Download the Dog_Cat dataset
 2. Then put the dataset into a folder. Please carefully check the directory of the folder whether containing invalid characters.
-3. Install the package required in  requirement.txt
+3. Install the package required in  '''requirement.txt'''
 4. Clone the repository ''' bash https://github.com/berthine/Cat_Dog_project''' and 
-5. Then in the terminal run ```python python main.py```
+5. Then in the terminal run ``` python main.py```
 
 
 
