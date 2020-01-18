@@ -3,7 +3,9 @@ Cat and dog classification using CNN
 
 By Berthine Nyunga
 The project is about  Dog and cat classifier with Convolution Neural Network(CNN). This means, given a image, the model is able to classify if it is a cat or dog.
-[image1]: ./images.main.jpg "Im2"
+
+
+ [image1]: ./images.main.jpg "Im2"
 [image2]: ./images.main.jpeg "index"
 
 # Step to run the code:
